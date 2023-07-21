@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Absar Ul Haq</h1>
 <h3 align="center">A passionate web 3.0 developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1774872/screenshots/5477893/media/5429f443d929b6f56e21792899af311a.gif">
+<img align="right" alt="Coding" width="400" src=" ">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abi429&label=Profile%20views&color=0e75b6&style=flat" alt="abi429" /> </p>
